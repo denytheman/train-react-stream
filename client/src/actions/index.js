@@ -57,5 +57,7 @@ export const deleteStream = (streamId) => {
         await streams.delete(`/streams/${streamId}`);
 
         dispatch({ type: actionTypes.DELETE_STREAM, payload: streamId });
+        
+        history.push('/');
     }
 }
