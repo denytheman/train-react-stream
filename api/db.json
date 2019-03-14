@@ -6,15 +6,16 @@
       "id": 1
     },
     {
-      "title": "My stream",
-      "description": "this is my first stream",
-      "id": 2
-    },
-    {
       "title": "I created this stream",
       "description": "This was made by me",
       "userId": "102211326077104814521",
       "id": 3
+    },
+    {
+      "title": "Programatic navigation",
+      "description": "You should not see this on the form page",
+      "userId": "102211326077104814521",
+      "id": 4
     }
   ]
 }
